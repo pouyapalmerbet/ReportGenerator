@@ -152,5 +152,5 @@ Badges in SVG and PNG format can be generated if `-reporttypes:Badges` is used:
 ## Contact
 
 Author: Daniel Palme  
-Blog: [www.palmmedia.de](https://www.palmmedia.de)  
-Twitter: [@danielpalme](https://twitter.com/danielpalme)  
+Blog: [www.palmmedia.de](https://www.palmmedia.de)
+Twitter: [@danielpalme](https://twitter.com/danielpalme)
